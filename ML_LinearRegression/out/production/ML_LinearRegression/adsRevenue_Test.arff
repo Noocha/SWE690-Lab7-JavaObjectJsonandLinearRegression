@@ -1,0 +1,8 @@
+@relation adsrevenue
+
+@attribute radioAds numeric
+@attribute revenue numeric
+
+@data
+22 9043
+100 22755

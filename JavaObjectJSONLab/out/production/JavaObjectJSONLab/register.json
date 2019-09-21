@@ -1,0 +1,94 @@
+{
+  "registers": [
+    {
+      "student": {
+        "id": 11,
+        "name": "Tom",
+        "gpa": 3.2,
+        "email": "acb@gmail.com",
+        "advisor": [
+          "Tony",
+          "James"
+        ]
+      },
+      "course": {
+        "code": "SWE690",
+        "title": "Data Science",
+        "credit": 3
+      },
+      "grade": "A"
+    },
+    {
+      "student": {
+        "id": 11,
+        "name": "Tom",
+        "gpa": 3.2,
+        "email": "acb@gmail.com",
+        "advisor": [
+          "Tony",
+          "James"
+        ]
+      },
+      "course": {
+        "code": "SWE601",
+        "title": "Software Architecture",
+        "credit": 3
+      },
+      "grade": "B"
+    },
+    {
+      "student": {
+        "id": 11,
+        "name": "Tom",
+        "gpa": 3.2,
+        "email": "acb@gmail.com",
+        "advisor": [
+          "Tony",
+          "James"
+        ]
+      },
+      "course": {
+        "code": "SWE650",
+        "title": "Software Improvement",
+        "credit": 3
+      },
+      "grade": "B"
+    },
+    {
+      "student": {
+        "id": 11,
+        "name": "Gorge",
+        "gpa": 3.8,
+        "email": "xyz@gmail.com",
+        "advisor": [
+          "Tony Stark",
+          "Peter Parker"
+        ]
+      },
+      "course": {
+        "code": "SWE690",
+        "title": "Data Science",
+        "credit": 3
+      },
+      "grade": "A"
+    },
+    {
+      "student": {
+        "id": 11,
+        "name": "Gorge",
+        "gpa": 3.8,
+        "email": "xyz@gmail.com",
+        "advisor": [
+          "Tony Stark",
+          "Peter Parker"
+        ]
+      },
+      "course": {
+        "code": "SWE601",
+        "title": "Software Architecture",
+        "credit": 3
+      },
+      "grade": "B+"
+    }
+  ]
+}

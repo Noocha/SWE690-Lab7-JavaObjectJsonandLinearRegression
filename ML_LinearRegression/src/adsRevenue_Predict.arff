@@ -1,0 +1,7 @@
+@relation adsrevenue
+
+@attribute radioAds numeric
+@attribute revenue numeric
+
+@data
+40 8350
